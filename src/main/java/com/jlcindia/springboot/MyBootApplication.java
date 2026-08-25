@@ -13,7 +13,7 @@ System.out.println("Update -1 Srinivas");
   System.out.println("Successfully completed all 5 jobs");
   System.out.println("using buld pipeline plugin");
   System.out.println("updating logs through email to developer and devops");
-  System.out.println("updated new");
+  System.out.println("updated ne");
 SpringApplication.run(MyBootApplication.class, args);
 }
 }
