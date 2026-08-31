@@ -14,7 +14,9 @@ System.out.println("Update -1 Srinivas");
   System.out.println("using buld pipeline plugin");
   System.out.println("updating logs through email to developer and devops");
   System.out.println("updated news1");
-  System.out.println("update bylastpipeline");
+  System.out.println("update bylastpipeline scripted");
+  System.out.println("update bylastpipeline declarative");
+  
   
 SpringApplication.run(MyBootApplication.class, args);
 }
